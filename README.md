@@ -80,7 +80,7 @@ An AI-powered travel planning system built using a **multi-agent architecture**.
 
 **Tech:** Python • LangChain  • Ollama • Streamlit
 
-🔗 [View Project](YOUR_TRIP_PLANNER_REPOSITORY_LINK)
+🔗 [View Project](https://github.com/yashsharma006/multi-agent-trip-planner.git)
 
 ---
 
@@ -100,7 +100,7 @@ ask questions about company documents using natural language.
 
 **Tech:** Python • LangChain • RAG • Embeddings • FAISS/ChromaDB • LLM
 
-🔗 [View Project](YOUR_RAG_REPOSITORY_LINK)
+🔗 [View Project](https://github.com/yashsharma006/company-chatbot-rag.git)
 
 ---
 
